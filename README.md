@@ -1,3 +1,18 @@
+
+---
+
+## Sommaire 
+
+- [🎯 Présentation du projet](#presentation-du-projet)
+- [📜 Introduction](#introduction)
+- [👥 Membres du groupe par sprint](#membres-du-groupe-par-sprint)
+- [⚙️ Choix Techniques](#choix-techniques)
+- [🧗Difficultés rencontrées](#difficultes-rencontrees)
+- [💡 Solutions trouvées](#solutions-trouvees)
+- [🚀 Améliorations possibles](#ameliorations-possibles)
+
+
+
 # 🖥️ ADMINISTRATION DE CLIENTS A DISTANCE
 
 # 🎯 Présentation du projet
@@ -39,6 +54,7 @@ Ces actions peuvent inclure :
 
 
 # 📜 Introduction
+<span id="introduction"></span>
 
 ### Problématique
 Comment centraliser et simplifier l'administration de machines aux systèmes d'exploitation différents, tout en garantissant une gestion sécurisée et efficace des tâches courantes ?
@@ -52,48 +68,52 @@ Ce projet propose un script d'administration unifié capable de :
 - Éxécuter des tâches d'administration de manière standardisée, quel que soit l'OS cible
 
 ### Périmètre du Projet
-| Élément     |	Description    |
-| ------------|----------------|
-Réseau cible |	172.16.20.0/24 |
+
+| Élément      |	Description    |
+| :----------: | :-------------: |
+| Réseau cible |	172.16.20.0/24 |
 | Systèmes supportés |	Windows 11, Windows Server 2022, Ubuntu 24 , Debian 13 |
 | Protocole de connexion |	SSH |
 | Type d'interface |	CLI (ligne de commande) |
 
 ## 👥 Membres du groupe par sprint
+<span id="membres-du-groupe-par-sprint"></span>
+
 ### Sprint 1
 
-|  Membre          |    Rôle    | Missions                                                                      |
-| :--------------: | :--------: | --------------------------------------------------------------------------- |
-| Anis BOUTALEB    |     SM     | Création du tableau Trello,                                                 |
-| Frederick FLAVIL |     PO     | Structuration du script                                   |
-|  Eros-Nathan RIGUIDEL   | Technicien | Installation des pré-requis  |
+|  Membre                 |    Rôle    | Missions                            |
+| :---------------------: | :--------: | :---------------------------------: |
+| Anis BOUTALEB           |     SM     | Création du tableau Trello,         |
+| Frederick FLAVIL        |     PO     | Structuration du script             |
+|  Eros-Nathan RIGUIDEL   | Technicien | Installation des pré-requis         |
 
 ### Sprint 2
 
-|  Membre          |    Rôle    | Missions                                                                      |
-| :--------------: | :--------: | --------------------------------------------------------------------------- |
-| Anis BOUTALEB    |     SM     | Création du tableau Trello,                                                 |
-| Frederick FLAVIL |     PO     | Structuration du script                                   |
-|  Eros-Nathan RIGUIDEL   | Technicien | Installation des pré-requis  |
+|  Membre                 |    Rôle    | Missions                            |
+| :---------------------: | :--------: | :---------------------------------: |
+| Anis BOUTALEB           |     SM     | Création du tableau Trello,         |
+| Frederick FLAVIL        |     PO     | Structuration du script             |
+|  Eros-Nathan RIGUIDEL   | Technicien | Installation des pré-requis         |
 
 ### Sprint 3
 
-|  Membre          |    Rôle    | Missions                                                                      |
-| :--------------: | :--------: | --------------------------------------------------------------------------- |
-| Anis BOUTALEB    |     SM     | Création du tableau Trello,                                                 |
-| Frederick FLAVIL |     PO     | Structuration du script                                   |
-|  Eros-Nathan RIGUIDEL   | Technicien | Installation des pré-requis  |
+|  Membre                 |    Rôle    | Missions                            |
+| :---------------------: | :--------: | :---------------------------------: |
+| Anis BOUTALEB           |     SM     | Création du tableau Trello,         |
+| Frederick FLAVIL        |     PO     | Structuration du script             |
+|  Eros-Nathan RIGUIDEL   | Technicien | Installation des pré-requis         |
 
 ### Sprint 4
 
-|  Membre          |    Rôle    | Missions                                                                      |
-| :--------------: | :--------: | --------------------------------------------------------------------------- |
-| Anis BOUTALEB    |     SM     | Création du tableau Trello,                                                 |
-| Frederick FLAVIL |     PO     | Structuration du script                                   |
-|  Eros-Nathan RIGUIDEL   | Technicien | Installation des pré-requis  |
+|  Membre                 |    Rôle    | Missions                            |
+| :---------------------: | :--------: | :---------------------------------: |
+| Anis BOUTALEB           |     SM     | Création du tableau Trello,         |
+| Frederick FLAVIL        |     PO     | Structuration du script             |
+|  Eros-Nathan RIGUIDEL   | Technicien | Installation des pré-requis         |
 
 ## ⚙️ Choix techniques
 <span id="choix-techniques"></span>
+
 ## Configuration Réseau des VM: 
 
 - Plage IP du Réseau : 172.16.20.0/24
@@ -156,7 +176,16 @@ Nos machines sont les machines **220** à **227**.
 
 
 ## 🧗 Difficultés rencontrées
+<span id="difficultes-rencontrees"></span>
+
+
 
 ## 💡 Solutions trouvées
+<span id="solutions-trouvees"></span>
+
+
 
 ## 🚀 Améliorations possibles
+<span id="ameliorations-possibles"></span>
+
+
