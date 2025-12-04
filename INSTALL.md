@@ -4,13 +4,9 @@
  
 ### A) [Prérequis Techniques](#-prérequis-techniques) 
  
-### B) [Installation SSH sur Windows Server 2022](#-installation-ssh-sur-windows-server-2022) 
+### B) [Installation SSH sur Windows Server 2022](#-installation-ssh-sur-windows-server-2022)
 
 ### C) [Installation sur Debian 13.1](#-installation-sur-debian-131-serveur)  
-
-### D) [Installation sur Ubuntu 24.04 (Client)](#V-installation-sur-ubuntu-2404-client)  
-
-### E) [Installation sur Windows 11 (Client)](#IV-installation-sur-windows-11-client)  
 
 ---
 
@@ -88,6 +84,10 @@ Cette configuration assure une gestion plus efficace, sécurisée et centralisé
 - Tapez "OpenSSH" pour vérifier si le service "OpenSSH Server" est présent sur votre machine.
 
 ![image URL](Ressources/05_installation_ssh_winserv2022.png)
+
+
+# Installation sur Debian 13.1
+
 
 
 
