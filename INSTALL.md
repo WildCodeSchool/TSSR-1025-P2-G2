@@ -4,7 +4,7 @@
 
 ### [Installation SSH sur Windows Server 2022](#-installation-ssh-sur-windows-server-2022)
 
-### [Installation sur Debian 13.1](#-installation-sur-debian-131-serveur)  
+### [Installation SSH sur Debian 13.1](#-installation-sur-debian-131-serveur)  
 
 ---
 
@@ -84,7 +84,8 @@ Cette configuration assure une gestion plus efficace, sécurisée et centralisé
 ![image URL](Ressources/05_installation_ssh_winserv2022.png)
 
 
-# Installation sur Debian 13.1
+# Installation SSH sur Debian 13.1
+
 
 
 
