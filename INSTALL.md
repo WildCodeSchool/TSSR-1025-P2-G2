@@ -1,12 +1,10 @@
 # Documentation d’Installation – Service SSH
 
 ## 📋 Table des Matières
- 
-### A) [Prérequis Techniques](#-prérequis-techniques) 
- 
-### B) [Installation SSH sur Windows Server 2022](#-installation-ssh-sur-windows-server-2022)
 
-### C) [Installation sur Debian 13.1](#-installation-sur-debian-131-serveur)  
+### [Installation SSH sur Windows Server 2022](#-installation-ssh-sur-windows-server-2022)
+
+### [Installation sur Debian 13.1](#-installation-sur-debian-131-serveur)  
 
 ---
 
@@ -87,6 +85,7 @@ Cette configuration assure une gestion plus efficace, sécurisée et centralisé
 
 
 # Installation sur Debian 13.1
+
 
 
 
