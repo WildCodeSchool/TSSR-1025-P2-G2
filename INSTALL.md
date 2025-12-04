@@ -36,12 +36,12 @@ Deux de ces machines joueront un rôle de postes de contrôle (SRVWIN01) & (SRVL
 Grâce à SSH, les postes de contrôle pourront exécuter des commandes à distance, transférer des fichiers de manière sécurisée, surveiller l’activité des machines administrées et automatiser certaines tâches d’administration. 
 Cette configuration assure une gestion plus efficace, sécurisée et centralisée de l’infrastructure.
 
----
+
 
 # Installation SSH sur Windows Server 2020
 <span id="installation-ssh-sur-windows-server-2022"></span>
 
----
+
 
 ### Etape 1
 
@@ -88,6 +88,7 @@ Cette configuration assure une gestion plus efficace, sécurisée et centralisé
 - Tapez "OpenSSH" pour vérifier si le service "OpenSSH Server" est présent sur votre machine.
 
 ![image URL](Ressources/05_installation_ssh_winserv2022.png)
+
 
 
 
