@@ -38,7 +38,7 @@ Cette configuration assure une gestion plus efficace, sécurisée et centralisé
 
 ---
 
-# Installation SSH sur Windows Server 2022
+# Installation SSH sur Windows Server 2020
 <span id="installation-ssh-sur-windows-server-2022"></span>
 
 ---
@@ -88,5 +88,6 @@ Cette configuration assure une gestion plus efficace, sécurisée et centralisé
 - Tapez "OpenSSH" pour vérifier si le service "OpenSSH Server" est présent sur votre machine.
 
 ![image URL](Ressources/05_installation_ssh_winserv2022.png)
+
 
 
