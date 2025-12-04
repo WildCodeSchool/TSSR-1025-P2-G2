@@ -48,7 +48,7 @@ Cette configuration assure une gestion plus efficace, sécurisée et centralisé
 
 - Cliquez sur l'onglet "Apps".
 
-![image URL](01_installation_ssh_winserv2022.png)
+![image URL](Ressources/01_installation_ssh_winserv2022.png)
 
 ---
 
@@ -59,7 +59,7 @@ Cette configuration assure une gestion plus efficace, sécurisée et centralisé
 - Cette section présente toutes les applications et fonctionnalités installées sur la machine, en tapant "OpenSSH", seul OpenSSH Client sera affiché.
 
 
-![image URL](02_installation_ssh_winserv2022.png)
+![image URL](Ressources/02_installation_ssh_winserv2022.png)
 
 
 ### Etape 3
@@ -68,7 +68,7 @@ Cette configuration assure une gestion plus efficace, sécurisée et centralisé
 
 - Cette section permet d'installer les applications et fonctionnalité qu'il nous faut.
 
-![image URL](03_installation_ssh_winserv2022.png)
+![image URL](Ressources/03_installation_ssh_winserv2022.png)
 
 
 ### Etape 4
@@ -77,7 +77,7 @@ Cette configuration assure une gestion plus efficace, sécurisée et centralisé
 
 - Sélectionnez "OpenSSH Server", puis cliquez sur "Install".
 
-![image URL](04_installation_ssh_winserv2022.png)
+![image URL](Ressources/04_installation_ssh_winserv2022.png)
 
 
 ### Etape 5 
@@ -86,4 +86,5 @@ Cette configuration assure une gestion plus efficace, sécurisée et centralisé
 
 - Tapez "OpenSSH" pour vérifier si le service "OpenSSH Server" est présent sur votre machine.
 
-![image URL](05_installation_ssh_winserv2022.png)
+![image URL](Ressources/05_installation_ssh_winserv2022.png)
+
