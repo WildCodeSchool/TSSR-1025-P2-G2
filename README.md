@@ -1,3 +1,4 @@
+![image URL](Ressources/README-PROJET2.png)
 
 ---
 
