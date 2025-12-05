@@ -83,8 +83,48 @@ Cette configuration assure une gestion plus efficace, sécurisée et centralisé
 
 ![image URL](Ressources/05_installation_ssh_winserv2022.png)
 
+---
 
 # Installation SSH sur Debian 13.1
+
+
+### Etape 1
+
+Après avoir mis à jour les paquets de votre serveur, tapez "sudo apt install openssh-server"
+
+![image URL](https://github.com/anis13013/projet-2/blob/73ea3447081b63ca6a59abbf5bcccfa12a44f3c4/VirtualBox_model-debian%20_05_12_2025_09_59_25.png))
+
+### Etape 2 
+
+- Vérifiez l’état du service SSH en tapant "systemctl status ssh".
+
+- "systemctl status ssh" est une commande qui affiche l’état du service SSH (Secure Shell) sur une machine Linux. Elle permet de déterminer si le service est :
+
+- Installé,
+
+- En cours d’exécution (active),
+
+- Arrêté (inactive),
+
+- ou s’il y a eu des erreurs au démarrage.
+  
+
+![image URL](https://github.com/anis13013/projet-2/blob/73ea3447081b63ca6a59abbf5bcccfa12a44f3c4/VirtualBox_model-debian%20_05_12_2025_10_00_12.png))
+
+
+### Etape 3 
+
+- Après avoir vérifié l’état de votre service SSH, tapez les commandes suivantes :
+
+- "sudo systemctl start ssh" pour démarrer le service 
+
+- "sudo systemctl enable ssh" pour l’activer au démarrage.
+
+- Revérifiez l'était de votre service SSH, vous devriez avoir "Active : active (running)", "*ssh.service: enabled, "preset: enabled)"
+
+![image URL](https://github.com/anis13013/projet-2/blob/73ea3447081b63ca6a59abbf5bcccfa12a44f3c4/VirtualBox_model-debian%20_05_12_2025_10_03_52.png
+)
+
 
 
 
