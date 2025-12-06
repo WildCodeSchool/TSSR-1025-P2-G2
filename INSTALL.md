@@ -2,10 +2,11 @@
 
 ## 📋 Table des Matières
 
-### [Installation SSH sur Windows Server 2022](#-installation-ssh-sur-windows-server-2022)
+### A ) [Installation SSH sur Windows Server 2022](#-installation-ssh-sur-windows-server-2022)
 
-### [Installation SSH sur Debian 13.1](#-installation-sur-debian-131-serveur)  
+### B ) [Installation SSH sur Debian 13.1](#-installation-sur-debian-13.1-serveur)  
 
+### C ) [FAQ](#-faq)
 ---
 
 ## 🔩 Prérequis Techniques
@@ -30,11 +31,9 @@ Deux de ces machines joueront un rôle de postes de contrôle (SRVWIN01) & (SRVL
 Grâce à SSH, les postes de contrôle pourront exécuter des commandes à distance, transférer des fichiers de manière sécurisée, surveiller l’activité des machines administrées et automatiser certaines tâches d’administration. 
 Cette configuration assure une gestion plus efficace, sécurisée et centralisée de l’infrastructure.
 
-
+---
 
 # Installation SSH sur Windows Server 2022
-<span id="installation-ssh-sur-windows-server-2022"></span>
-
 
 
 ### Etape 1
@@ -136,7 +135,7 @@ Après avoir mis à jour les paquets de votre serveur, tapez "sudo apt install o
 ---
 
 
-
+## C) 👁️‍🗨️ FAQ
 
 
 
