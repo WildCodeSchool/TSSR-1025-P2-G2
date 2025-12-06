@@ -2,11 +2,11 @@
 
 ## 📋 Table des Matières
 
-### A ) [Installation SSH sur Windows Server 2022](#-installation-ssh-sur-windows-server-2022)
+### A ) [Installation SSH sur Windows Server 2022](#a--installation-ssh-sur-windows-server-2022)
 
-### B ) [Installation SSH sur Debian 13.1](#-installation-sur-debian-13.1-serveur)  
+### B ) [Installation SSH sur Debian 13.1](#b--installation-ssh-sur-debian-131-serveur)  
 
-### C ) [FAQ](#-faq)
+### C ) [FAQ](#c--faq)
 ---
 
 ## 🔩 Prérequis Techniques
@@ -33,7 +33,7 @@ Cette configuration assure une gestion plus efficace, sécurisée et centralisé
 
 ---
 
-# Installation SSH sur Windows Server 2022
+## A ) Installation SSH sur Windows Server 2022
 
 
 ### Etape 1
@@ -87,8 +87,7 @@ Cette configuration assure une gestion plus efficace, sécurisée et centralisé
 
 ---
 
-# Installation SSH sur Debian 13.1
-
+## B ) Installation SSH sur Debian 13.1 Serveur
 
 ### Etape 1
 
@@ -135,13 +134,15 @@ Après avoir mis à jour les paquets de votre serveur, tapez "sudo apt install o
 ---
 
 
-## C) 👁️‍🗨️ FAQ
+## C ) FAQ
 
 #### Configuration des machines clientes :
 
-Dans notre architecture, la différence entre serveur et client est simple : le serveur est la machine centrale qui exécute le script principal, lance les actions, d’administration ou de contrôle, et se connecte aux postes distants ; le client, lui, est simplement la machine à contrôler. Pour qu’un poste client puisse être géré, il n’a aucune installation complexe à effectuer : il doit seulement disposer de OpenSSH Client (déjà présent par défaut sur la plupart des systèmes ou installable en une commande). Grâce à ça, le serveur peut établir une connexion sécurisée via SSH.
+Q : Quels sont les prérequis nécessaires avant que le serveur puisse contrôler une machine cliente ?
+R : Avant toute utilisation, chaque poste client doit avoir son pare-feu configuré pour autoriser les connexions SSH entrantes, le service OpenSSH activé, et le port SSH ouvert (par défaut 22). L’installation d’OpenSSH Client est généralement déjà présente par défaut sur Windows et Linux, mais doit être vérifiée. Le serveur doit également générer une paire de clés SSH, dont la clé publique devra être copiée sur les clients pour permettre l’authentification. Enfin, pour améliorer la sécurité, il est possible de modifier le port SSH sur les machines clientes. L’ensemble de ces étapes, ainsi que les procédures détaillées pour Windows et Linux, sont expliquées dans le UserGuide.md.
 
 ---
+
 
 
 
