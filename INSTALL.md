@@ -137,9 +137,12 @@ Après avoir mis à jour les paquets de votre serveur, tapez "sudo apt install o
 
 ## C) 👁️‍🗨️ FAQ
 
-Dans notre architecture, la différence entre serveur et client est simple : le serveur est la machine centrale qui exécute le script principal, lance les actions, d’administration ou de contrôle, et se connecte aux postes distants ; le client, lui, est simplement la machine à contrôler. Pour qu’un poste client puisse être géré, il n’a aucune installation complexe à effectuer : il doit seulement disposer de OpenSSH Client (déjà présent par défaut sur la plupart des systèmes ou installable en une commande). Grâce à ça, le serveur peut établir une connexion sécurisée via SSH. Le poste client doit également disposer du pare-feu configuré pour autoriser les connexions entrantes, avec le port SSH ouvert et le service OpenSSH client actif, afin que le serveur puisse établir la connexion.
+#### Configuration des machines clientes :
+
+Dans notre architecture, la différence entre serveur et client est simple : le serveur est la machine centrale qui exécute le script principal, lance les actions, d’administration ou de contrôle, et se connecte aux postes distants ; le client, lui, est simplement la machine à contrôler. Pour qu’un poste client puisse être géré, il n’a aucune installation complexe à effectuer : il doit seulement disposer de OpenSSH Client (déjà présent par défaut sur la plupart des systèmes ou installable en une commande). Grâce à ça, le serveur peut établir une connexion sécurisée via SSH.
 
 ---
+
 
 
 
