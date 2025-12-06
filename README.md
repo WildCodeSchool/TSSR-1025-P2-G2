@@ -92,17 +92,17 @@ Ce projet propose un script d'administration unifié capable de :
 
 |  Membre                 |    Rôle    | Missions                            |
 | :---------------------: | :--------: | :---------------------------------: |
-| Anis BOUTALEB           |     DEV    | Créations fonctions (Tâches)                 |
+| Anis BOUTALEB           |     DEV    | Créations fonctions (Tâches) (.sh)                |
 | Frederick FLAVIL        |     SM     | Pseudo-Code, Documentation Github     |
-|  Eros-Nathan RIGUIDEL   | PO         | Création Script                      |
+|  Eros-Nathan RIGUIDEL   | PO         | Création Script (.sh)                     |
 
 ### Sprint 3
 
 |  Membre                 |    Rôle    | Missions                            |
 | :---------------------: | :--------: | :---------------------------------: |
-| Anis BOUTALEB           |     SM     | Création du tableau Trello,         |
-| Frederick FLAVIL        |     PO     | Structuration du script             |
-|  Eros-Nathan RIGUIDEL   | Technicien | Installation des pré-requis         |
+| Anis BOUTALEB           |     SM     | Créations fonctions (Tâches) (.ps1) |
+| Frederick FLAVIL        |     PO     | Pseudo-Code, Documentation Github   |
+|  Eros-Nathan RIGUIDEL   | Technicien | Documentation Github, Création Script (.ps1) |
 
 ### Sprint 4
 
