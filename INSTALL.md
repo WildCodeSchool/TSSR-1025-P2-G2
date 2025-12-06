@@ -34,7 +34,7 @@ Cette configuration assure une gestion plus efficace, sécurisée et centralisé
 ---
 
 ## A ) Installation SSH sur Windows Server 2022
-
+<span id="a--installation-ssh-sur-windows-server-2022"></span>
 
 ### Etape 1
 
@@ -142,6 +142,7 @@ Q : Quels sont les prérequis nécessaires avant que le serveur puisse contrôle
 R : Avant toute utilisation, chaque poste client doit avoir son pare-feu configuré pour autoriser les connexions SSH entrantes, le service OpenSSH activé, et le port SSH ouvert (par défaut 22). L’installation d’OpenSSH Client est généralement déjà présente par défaut sur Windows et Linux, mais doit être vérifiée. Le serveur doit également générer une paire de clés SSH, dont la clé publique devra être copiée sur les clients pour permettre l’authentification. Enfin, pour améliorer la sécurité, il est possible de modifier le port SSH sur les machines clientes. L’ensemble de ces étapes, ainsi que les procédures détaillées pour Windows et Linux, sont expliquées dans le UserGuide.md.
 
 ---
+
 
 
 
