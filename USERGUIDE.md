@@ -55,9 +55,10 @@ Client Windows
 --
 | Etape     | Description       | Action |
 | ---------- | ---------- | -------- |
-| 3.1       | Activer OpenSSH Server (GUI)        | Paramètres → Applications → Fonctionnalités facultatives → Ajouter OpenSSH Server |
+| 3.1       | Activer OpenSSH Server (GUI)        | Paramètres → Système → Fonctionnalités facultatives → Ajouter OpenSSH Server |
 | 3.2       | Ouvrir le port SSH (pare-feu) (GUI)         | Pare-feu Windows → Règles de trafic entrant → Nouvelle règle → Port 22 TCP |
 | 3.3       | Copié la clé publique sur le client (depuis le serveur) | Coller le contenu de "id_rsa.pub" dans → C: ~ \.ssh\authorized_keys |
+
 
 
 
