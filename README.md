@@ -85,24 +85,24 @@ Ce projet propose un script d'administration unifié capable de :
 |  Membre                 |    Rôle    | Missions                            |
 | :---------------------: | :--------: | :---------------------------------: |
 | Anis BOUTALEB           |     SM     | Création du tableau Trello, Mise en place structuration Script, Doc Github         |
-| Frederick FLAVIL        |     PO     | Structuration du script, Mise en place d'une structuration Script, Doc Github           |
-|  Eros-Nathan RIGUIDEL   | Technicien | Installation des pré-requis, Mise en place d'une structuration Script, Doc Github         |
+| Frederick FLAVIL        |     PO     | Structuration du script, Mise en place d'une structuration Script, Doc Github      |
+|  Eros-Nathan RIGUIDEL   | Technicien | Installation des pré-requis, Mise en place d'une structuration Script, Doc Github  |
 
 ### Sprint 2
 
 |  Membre                 |    Rôle    | Missions                            |
 | :---------------------: | :--------: | :---------------------------------: |
-| Anis BOUTALEB           |     DEV    | Créations fonctions (Tâches) (.sh)                |
-| Frederick FLAVIL        |     SM     | Pseudo-Code, Documentation Github     |
-|  Eros-Nathan RIGUIDEL   | PO         | Création Script (.sh)                     |
+| Anis BOUTALEB           | Techicien  | Créations fonctions (Tâches) (.sh)  |
+| Frederick FLAVIL        |     SM     | Pseudo-Code, Documentation Github   |
+|  Eros-Nathan RIGUIDEL   |     PO     | Création Script (.sh)               |
 
 ### Sprint 3
 
 |  Membre                 |    Rôle    | Missions                            |
 | :---------------------: | :--------: | :---------------------------------: |
-| Anis BOUTALEB           |     SM     | Créations fonctions (Tâches) (.ps1) |
-| Frederick FLAVIL        |     PO     | Pseudo-Code, Documentation Github   |
-|  Eros-Nathan RIGUIDEL   | Technicien | Documentation Github, Création Script (.ps1) |
+| Anis BOUTALEB           |     PO     | Créations fonctions (Tâches) (.ps1) |
+| Frederick FLAVIL        | Technicien | Pseudo-Code, Documentation Github   |
+|  Eros-Nathan RIGUIDEL   |     SM     | Documentation Github, Création Script (.ps1) |
 
 ### Sprint 4
 
