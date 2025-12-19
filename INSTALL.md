@@ -43,7 +43,7 @@ Cette configuration assure une gestion plus efficace, sécurisée et centralisé
 
 - Cliquez sur l'onglet "Apps".
 
-![image URL](Ressources/01_installation_ssh_winserv2022.png)
+![image URL](https://github.com/WildCodeSchool/TSSR-1025-P2-G2/blob/f11585318909be07023406460adf4c6e9564e5b5/Ressources/install.md%20(ssh%20windows)/01_installation_ssh_winserv2022.png)
 
 ---
 
@@ -54,7 +54,7 @@ Cette configuration assure une gestion plus efficace, sécurisée et centralisé
 - Cette section présente toutes les applications et fonctionnalités installées sur la machine, en tapant "OpenSSH", seul OpenSSH Client sera affiché.
 
 
-![image URL](Ressources/02_installation_ssh_winserv2022.png)
+![image URL](https://github.com/WildCodeSchool/TSSR-1025-P2-G2/blob/f11585318909be07023406460adf4c6e9564e5b5/Ressources/install.md%20(ssh%20windows)/02_installation_ssh_winserv2022.png)
 
 ---
 
@@ -64,7 +64,7 @@ Cette configuration assure une gestion plus efficace, sécurisée et centralisé
 
 - Cette section permet d'installer les applications et fonctionnalité qu'il nous faut.
 
-![image URL](Ressources/03_installation_ssh_winserv2022.png)
+![image URL](https://github.com/WildCodeSchool/TSSR-1025-P2-G2/blob/f11585318909be07023406460adf4c6e9564e5b5/Ressources/install.md%20(ssh%20windows)/03_installation_ssh_winserv2022.png)
 
 ---
 
@@ -74,7 +74,7 @@ Cette configuration assure une gestion plus efficace, sécurisée et centralisé
 
 - Sélectionnez "OpenSSH Server", puis cliquez sur "Install".
 
-![image URL](Ressources/04_installation_ssh_winserv2022.png)
+![image URL](https://github.com/WildCodeSchool/TSSR-1025-P2-G2/blob/f11585318909be07023406460adf4c6e9564e5b5/Ressources/install.md%20(ssh%20windows)/04_installation_ssh_winserv2022.png)
 
 ---
 
@@ -84,7 +84,7 @@ Cette configuration assure une gestion plus efficace, sécurisée et centralisé
 
 - Tapez "OpenSSH" pour vérifier si le service "OpenSSH Server" est présent sur votre machine.
 
-![image URL](Ressources/05_installation_ssh_winserv2022.png)
+![image URL](https://github.com/WildCodeSchool/TSSR-1025-P2-G2/blob/f11585318909be07023406460adf4c6e9564e5b5/Ressources/install.md%20(ssh%20windows)/05_installation_ssh_winserv2022.png)
 
 ---
 
@@ -94,7 +94,7 @@ Cette configuration assure une gestion plus efficace, sécurisée et centralisé
 
 Après avoir mis à jour les paquets de votre serveur, tapez "sudo apt install openssh-server"
 
-![image URL](https://github.com/WildCodeSchool/TSSR-1025-P2-G2/blob/ca4256e367d710832eace9004d63a31f851724eb/Ressources/install.md%20(ssh%20debian)/01_installation_ssh_debianserv.png)
+![image URL](https://github.com/WildCodeSchool/TSSR-1025-P2-G2/blob/f11585318909be07023406460adf4c6e9564e5b5/Ressources/install.md%20(ssh%20debian)/01_installation_ssh_debianserv.png)
 
 ---
 
@@ -113,8 +113,7 @@ Après avoir mis à jour les paquets de votre serveur, tapez "sudo apt install o
 - Si il y a eu des erreurs au démarrage.
   
 
-![image URL](https://github.com/WildCodeSchool/TSSR-1025-P2-G2/blob/ca4256e367d710832eace9004d63a31f851724eb/Ressources/install.md%20(ssh%20debian)/02_installation_ssh_debianserv.png
-)
+![image URL](https://github.com/WildCodeSchool/TSSR-1025-P2-G2/blob/f11585318909be07023406460adf4c6e9564e5b5/Ressources/install.md%20(ssh%20debian)/02_installation_ssh_debianserv.png)
 
 
 ---
@@ -129,7 +128,7 @@ Après avoir mis à jour les paquets de votre serveur, tapez "sudo apt install o
 
 - Revérifiez l'était de votre service SSH, vous devriez avoir "Active : active (running)", "*ssh.service: enabled, "preset: enabled)".
 
-![image URL](https://github.com/WildCodeSchool/TSSR-1025-P2-G2/blob/ca4256e367d710832eace9004d63a31f851724eb/Ressources/install.md%20(ssh%20debian)/03_installation_ssh_debianserv.png)
+![image URL](https://github.com/WildCodeSchool/TSSR-1025-P2-G2/blob/f11585318909be07023406460adf4c6e9564e5b5/Ressources/install.md%20(ssh%20debian)/03_installation_ssh_debianserv.png)
 
 
 ---
@@ -144,6 +143,7 @@ Après avoir mis à jour les paquets de votre serveur, tapez "sudo apt install o
 *Avant toute utilisation, chaque poste client doit avoir son pare-feu configuré pour autoriser les connexions SSH entrantes, le service OpenSSH activé, et le port SSH ouvert (par défaut 22). L’installation d’OpenSSH Client est généralement déjà présente par défaut sur Windows et Linux, mais doit être vérifiée. Le serveur doit également générer une paire de clés SSH, dont la clé publique devra être copiée sur les clients pour permettre l’authentification. Enfin, pour améliorer la sécurité, il est possible de modifier le port SSH sur les machines clientes. L’ensemble de ces étapes, ainsi que les procédures détaillées pour Windows et Linux, sont expliquées dans le UserGuide.md.* 
 
 ---
+
 
 
 
