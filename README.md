@@ -230,8 +230,4 @@ Une configuration spécifique des mécanismes de sécurité Windows a été appl
 
 - La **journalisation des sessions CLI** à distance permettrait d’assurer une traçabilité complète des actions effectuées, répondant ainsi aux exigences de sécurité et de suivi des interventions.
 
-- Intégrer **un menu interactif au sein du script, guidant l’administrateur à chaque étape des procédures d’Offboarding et d’Onboarding.** Ce menu permettrait d’enchaîner les actions de manière structurée, tout en laissant à l’administrateur le contrôle sur les opérations à effectuer.
-
-- Récupérer les informations système afin de valider l’état opérationnel du poste avant sa mise à disposition.
-
-Ces axes d'amélioration permettrait de réduire significativement le temps d’intervention, les erreurs humaines et les risques de sécurité.
+- Intégrer **un menu interactif au sein du script, guidant l’administrateur à chaque étape des procédures d’Offboarding et d’Onboarding.** Ce menu permettrait d’enchaîner les actions de manière structurée, tout en laissant à l’administrateur le contrôle sur les opérations à effectuer. Ces axes d'amélioration permettrait de réduire significativement le temps d’intervention, les erreurs humaines et les risques de sécurité.
