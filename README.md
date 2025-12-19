@@ -230,26 +230,7 @@ Une configuration spécifique des mécanismes de sécurité Windows a été appl
 
 - La **journalisation des sessions CLI** à distance permettrait d’assurer une traçabilité complète des actions effectuées, répondant ainsi aux exigences de sécurité et de suivi des interventions.
 
-Une évolution de la solution consisterait à intégrer **un menu interactif au sein du script, guidant l’administrateur à chaque étape des procédures d’Offboarding et d’Onboarding.** Ce menu permettrait d’enchaîner les actions de manière structurée, tout en laissant à l’administrateur le contrôle sur les opérations à effectuer.
-
-Pour **l’Offboarding**, le script proposerait des options interactives permettant de renseigner directement le nom du salarié concerné. L’administrateur pourrait choisir de :
-
- - Récupérer ou non les informations techniques et réseau de la machine,
-
-- Désactiver ou supprimer les comptes utilisateurs locaux associés,
-
-- Supprimer les données personnelles tout en conservant les configurations nécessaires,
-
-- Générer un journal des actions réalisées.
-
-Pour **l’Onboarding**, le script offrirait des options permettant de préparer rapidement le poste pour un nouvel utilisateur.
-Il serait possible de :
-
-- Créer un nouvel utilisateur local,
-
-- Définir son appartenance aux groupes appropriés (dont les groupes administrateurs si nécessaire),
-
-- Préparer et vérifier un dossier personnel,
+- Intégrer **un menu interactif au sein du script, guidant l’administrateur à chaque étape des procédures d’Offboarding et d’Onboarding.** Ce menu permettrait d’enchaîner les actions de manière structurée, tout en laissant à l’administrateur le contrôle sur les opérations à effectuer.
 
 - Récupérer les informations système afin de valider l’état opérationnel du poste avant sa mise à disposition.
 
