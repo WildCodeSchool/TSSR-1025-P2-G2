@@ -218,10 +218,39 @@ Un scan réseau parallélisé a été mis en place afin d’automatiser la déte
 
 **Gestion des droits et administration à distance sous Windows**
 
-Une configuration spécifique des mécanismes de sécurité Windows a été appliquée afin de garantir le bon fonctionnement de l’administration à distance. Cette solution permet d’assurer que les actions lancées à distance disposent des droits nécessaires, que les communications réseau requises soient autorisées et que les machines puissent être administrées de manière centralisée et cohérente, tout en respectant les principes de sécurité du système.
+Une configuration spécifique des mécanismes de sécurité Windows a été appliquée afin de garantir le bon fonctionnement de l’administration à distance. Cette solution permet d’assurer que les actions lancées à distance disposent des droits nécessaires, que les communications réseau requises soient autorisées et que les machines puissent être administrées de manière centralisée et cohérente, tout en respectant les principes de sécurité du système. (USERGUIDE)
 
 
 ## 🚀 Améliorations possibles
 <span id="ameliorations-possibles"></span>
 
+- La mise en place de gestion des **mises à jour critiques manquantes**, conformément aux besoins exprimés par le client, permettrait d’améliorer le niveau de sécurité et la conformité des postes administrés.
 
+- L’ajout d’une **interface graphique PowerShell (GUI)** faciliterait l’utilisation de la solution par des utilisateurs moins techniques.
+
+- La **journalisation des sessions CLI** à distance permettrait d’assurer une traçabilité complète des actions effectuées, répondant ainsi aux exigences de sécurité et de suivi des interventions.
+
+Une évolution de la solution consisterait à intégrer **un menu interactif au sein du script, guidant l’administrateur à chaque étape des procédures d’Offboarding et d’Onboarding.** Ce menu permettrait d’enchaîner les actions de manière structurée, tout en laissant à l’administrateur le contrôle sur les opérations à effectuer.
+
+Pour **l’Offboarding**, le script proposerait des options interactives permettant de renseigner directement le nom du salarié concerné. L’administrateur pourrait choisir de :
+
+ - Récupérer ou non les informations techniques et réseau de la machine,
+
+- Désactiver ou supprimer les comptes utilisateurs locaux associés,
+
+- Supprimer les données personnelles tout en conservant les configurations nécessaires,
+
+- Générer un journal des actions réalisées.
+
+Pour **l’Onboarding**, le script offrirait des options permettant de préparer rapidement le poste pour un nouvel utilisateur.
+Il serait possible de :
+
+- Créer un nouvel utilisateur local,
+
+- Définir son appartenance aux groupes appropriés (dont les groupes administrateurs si nécessaire),
+
+- Préparer et vérifier un dossier personnel,
+
+- Récupérer les informations système afin de valider l’état opérationnel du poste avant sa mise à disposition.
+
+Ces axes d'amélioration permettrait de réduire significativement le temps d’intervention, les erreurs humaines et les risques de sécurité.
