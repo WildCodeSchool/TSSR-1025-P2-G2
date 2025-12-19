@@ -117,7 +117,7 @@ Ce projet propose un script d'administration unifié capable de :
 
 ## Configuration Réseau des VM: 
 
-- Plage IP du Réseau : 172.16.20.0/24
+- Plage IP du Réseau : 172.16.20.0
 - Passerelle (GateWay) : 172.16.20.254
 - Masque de Sous-réseau : 255.255.255.0
 - DNS : 8.8.8.8
@@ -146,7 +146,7 @@ Nos machines sont les machines **220** à **227**.
   - OS : **Windows server 2022**
   - Compte utilisateur :  **Administrator** / **Wilder (groupe admin)**
   - Mot de passe : **Azerty1***
-  - IP & Masque : **172.16.20.5**
+  - IP  : **172.16.20.5**
   - Masque : **255.255.255.0**
   - DNS : 8.8.8.8
 
