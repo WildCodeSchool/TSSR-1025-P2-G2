@@ -102,15 +102,7 @@ Après avoir mis à jour les paquets de votre serveur, tapez "sudo apt install o
 
 - Vérifiez l’état du service SSH en tapant "systemctl status ssh".
 
-- "systemctl status ssh" est une commande qui affiche l’état du service SSH (Secure Shell) sur une machine Linux. Elle permet de déterminer si le service est :
-
-- Installé,
-
-- En cours d’exécution (active),
-
-- Arrêté (inactive),
-
-- Si il y a eu des erreurs au démarrage.
+- "systemctl status ssh" est une commande qui affiche l’état du service SSH (Secure Shell) sur une machine Linux. Elle permet de déterminer si le service est : installé, en cours d’exécution (active), arrêté (inactive), si il y a eu des erreurs au démarrage.
   
 
 ![image URL](https://github.com/WildCodeSchool/TSSR-1025-P2-G2/blob/f11585318909be07023406460adf4c6e9564e5b5/Ressources/install.md%20(ssh%20debian)/02_installation_ssh_debianserv.png)
@@ -143,6 +135,7 @@ Après avoir mis à jour les paquets de votre serveur, tapez "sudo apt install o
 *Avant toute utilisation, chaque poste client doit avoir son pare-feu configuré pour autoriser les connexions SSH entrantes, le service OpenSSH activé, et le port SSH ouvert (par défaut 22). L’installation d’OpenSSH Client est généralement déjà présente par défaut sur Windows et Linux, mais doit être vérifiée. Le serveur doit également générer une paire de clés SSH, dont la clé publique devra être copiée sur les clients pour permettre l’authentification. Enfin, pour améliorer la sécurité, il est possible de modifier le port SSH sur les machines clientes. L’ensemble de ces étapes, ainsi que les procédures détaillées pour Windows et Linux, sont expliquées dans le UserGuide.md.* 
 
 ---
+
 
 
 
