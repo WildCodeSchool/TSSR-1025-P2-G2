@@ -86,7 +86,7 @@ Ce projet propose un script d'administration unifié capable de :
 | :---------------------: | :--------: | :---------------------------------: |
 | Anis BOUTALEB           |     SM     | Création du tableau Trello, Mise en place structuration Script, Doc Github         |
 | Frederick FLAVIL        |     PO     | Structuration du script, Mise en place d'une structuration Script, Doc Github      |
-|  Eros-Nathan RIGUIDEL   | Technicien | Installation des pré-requis, Mise en place d'une structuration Script, Doc Github  |
+|  Eros                   | Technicien | Installation des pré-requis, Mise en place d'une structuration Script, Doc Github  |
 
 ### Sprint 2
 
@@ -94,7 +94,7 @@ Ce projet propose un script d'administration unifié capable de :
 | :---------------------: | :--------: | :---------------------------------: |
 | Anis BOUTALEB           | Techicien  | Créations fonctions (Tâches) (.sh)  |
 | Frederick FLAVIL        |     SM     | Pseudo-Code, Documentation Github   |
-|  Eros-Nathan RIGUIDEL   |     PO     | Création Script (.sh)               |
+|  Eros                   |     PO     | Création Script (.sh)               |
 
 ### Sprint 3
 
@@ -102,7 +102,7 @@ Ce projet propose un script d'administration unifié capable de :
 | :---------------------: | :--------: | :---------------------------------: |
 | Anis BOUTALEB           |     PO     | Créations fonctions (Tâches) (.ps1) |
 | Frederick FLAVIL        | Technicien | Pseudo-Code, Documentation Github   |
-|  Eros-Nathan RIGUIDEL   |     SM     | Documentation Github, Création Script (.ps1) |
+|  Eros                   |     SM     | Documentation Github, Création Script (.ps1) |
 
 ### Sprint 4
 
@@ -110,7 +110,7 @@ Ce projet propose un script d'administration unifié capable de :
 | :---------------------: | :--------: | :---------------------------------: |
 | Anis BOUTALEB           |     SM     | Création du tableau Trello,         |
 | Frederick FLAVIL        |     PO     | Structuration du script             |
-|  Eros-Nathan RIGUIDEL   | Technicien | Installation des pré-requis         |
+|  Eros                   | Technicien | Installation des pré-requis         |
 
 ## ⚙️ Choix techniques
 <span id="choix-techniques"></span>
